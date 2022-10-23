@@ -6,7 +6,7 @@ body{
 
 
 #contenedor {
-   background-color: white;
+   background-color: #FFE6B5;
     width: 750px;
     height: 300px;
     position: absolute;
@@ -15,8 +15,8 @@ body{
     text-align: center;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
-    0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 14px 28px rgba(191, 149, 43, 0.25), 
+    0 10px 10px rgba(78, 65, 25, 0.22);
 }
 #calculadora {
    
@@ -25,7 +25,7 @@ body{
     float: left;
 }
 #detalle {
-    background-color: #ff416c;
+    background-color: #D3A039;
     color: white;
     width: 50%;
     height: 100%;
@@ -44,7 +44,7 @@ input {
     margin: auto;
     margin-bottom: 20px;
     padding: 12px 15px;
-    background-color: #eee;
+    background-color: rgb(255, 252, 245);
     border: none;
 
 }
@@ -53,8 +53,8 @@ button {
 	font-weight: bold;
 	padding: 12px 45px;
 	border-radius: 30px;
-	background-color: #FF416C;
-	border: 1px solid #FF416C;
+	background-color: #D3A039;
+	border: 1px solid #D3A039;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 1px;
